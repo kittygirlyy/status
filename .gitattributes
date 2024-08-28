@@ -1,6 +1,6 @@
 # Markdown
 *.md linguist-detectable=true
-*.md linguist-documentation=false
+*.md linguist-documentation=true
 
 # JSON
 *.json linguist-detectable=true
