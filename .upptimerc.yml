@@ -7,6 +7,8 @@ sites:
     url: https://8086.re
   - name: 0xaa55.re
     url: https://meow.0xaa55.re
+  - name: PurfectKittens
+    url: https://purfectkittens.github.io/kittens-website/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
