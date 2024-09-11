@@ -4,7 +4,7 @@
     "url": "https://8086.re",
     "icon": "https://icons.duckduckgo.com/ip3/8086.re.ico",
     "slug": "8086-re",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 295,
     "timeMonth": 268,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "0xaa55.re",
