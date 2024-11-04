@@ -24,7 +24,7 @@
     "url": "https://meow.0xaa55.re",
     "icon": "https://icons.duckduckgo.com/ip3/meow.0xaa55.re.ico",
     "slug": "0xaa55-re",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 221,
     "timeMonth": 222,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   },
   {
     "name": "PurfectKittens",
