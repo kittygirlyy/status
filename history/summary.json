@@ -24,19 +24,19 @@
     "url": "https://meow.0xaa55.re",
     "icon": "https://icons.duckduckgo.com/ip3/meow.0xaa55.re.ico",
     "slug": "0xaa55-re",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 180,
-    "timeWeek": 221,
-    "timeMonth": 222,
-    "timeYear": 248,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 250,
+    "timeDay": 301,
+    "timeWeek": 243,
+    "timeMonth": 228,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-04": 17
     }
   },
   {
