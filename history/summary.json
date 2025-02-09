@@ -4,7 +4,7 @@
     "url": "https://8086.re",
     "icon": "https://icons.duckduckgo.com/ip3/8086.re.ico",
     "slug": "8086-re",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
@@ -16,6 +16,7 @@
     "timeMonth": 303,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2025-02-09": 0,
       "2025-02-04": 34,
       "2024-11-12": 59,
       "2024-09-11": 28
